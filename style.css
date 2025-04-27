@@ -1,0 +1,34 @@
+
+body{
+    background-color: hsl(185, 41%, 84%)
+    ;
+    font-family: 'Space Mono', monospace;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}
+.headline{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+.p1{
+    color: hsl(183, 100%, 15%);
+    font-size: 30px;
+}
+.container{
+    width: 70%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    justify-content: center;
+    border-radius: 20px;
+    padding: 10px;
+}
+.bill{
+align-items: center;
+    
+}
